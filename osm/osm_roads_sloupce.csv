@@ -1,0 +1,10 @@
+sloupec,vyznam
+"osm_id","OSM ID"
+"name","Název ulice"
+"ref","Číslo komunikace"
+"type","Typ komunikace - 1. třída, dálnice...."
+"oneway","1 = jednosměrka"
+"bridge","1 = most"
+"tunnel","1 = tunel"
+"maxspeed","Max. povolená rychlost"
+"wkt","Geometrie prvku"
