@@ -1,0 +1,6 @@
+KOD;NAZEV;POPIS;ZKRACENY_NAZEV;ZACATEK_PLATNOSTI;KONEC_PLATNOSTI
+1;Centrální domovní (kotel ve stavbě);Centrální domovní (kotel ve stavbě);Centrální domovní;01.01.1900 00:00:00;
+2;Centrální dálkové (kotel mimo stavbu);Centrální dálkové (kotel mimo stavbu);Centrální dálkové;01.01.1900 00:00:00;
+3;Lokální (kotel nebo jiné topidlo v bytě);Lokální (kotel nebo jiné topidlo v bytě);Lokální;01.01.1900 00:00:00;
+4;Jiné (i bez topení);Jiné (i bez topení);Jiné (i bez topení);01.01.1900 00:00:00;
+9;Nezjištěno;nezjištěno;Nezjištěno;01.01.1900 00:00:00;
