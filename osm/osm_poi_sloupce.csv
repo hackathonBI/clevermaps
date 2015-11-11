@@ -1,0 +1,5 @@
+sloupec,vyznam
+"osm_id","OSM ID"
+"name","Jméno bodu"
+"type","Typ bodu"
+"wkt","geometrie bodu"
